@@ -1,0 +1,2 @@
+C:\Users\24392\source\repos\ExcelWebAddIn1\obj\Debug\ExcelWebAddIn1.csproj.AssemblyReference.cache
+C:\Users\24392\source\repos\ExcelWebAddIn1\obj\Debug\ExcelWebAddIn1.csproj.CoreCompileInputs.cache
